@@ -16,6 +16,16 @@ double multiply(double a, double b){
     return c;
 }
 
+double sum(double a, double b)
+{
+    return a + b; 
+}
+
+double substract(double a, double b)
+{
+    return a - b; 
+}
+
 int main(){
     double a = 3.0;
     double b = 4.0;
