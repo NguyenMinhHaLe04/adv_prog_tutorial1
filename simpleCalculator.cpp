@@ -1,11 +1,7 @@
-<<<<<<< HEAD
+
 #include <iostream>
 using namespace std; 
 
-
-=======
-#include<iostream>
-using namespace std;
 
 double multiply(double a, double b){
     double c = a*b;
@@ -63,5 +59,4 @@ int main(){
     cout << res;
 
     // cout << 'hello' << endl; 
->>>>>>> 466378836affd0f77ac86cd5af8bf39d5aae6688
 }
