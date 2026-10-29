@@ -29,6 +29,11 @@ double substract(double a, double b)
     return a - b; 
 }
 
+double mean(double a, double b)
+{
+    return (a + b)/2; 
+}
+
 int main(){
     double a = 3.0;
     double b = 4.0;
